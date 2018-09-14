@@ -20,4 +20,5 @@ func main() {
 	} else {
 		fmt.Println(num, "Has multiple digits")
 	}
+
 }
