@@ -36,7 +36,7 @@ func main() {
 		case int:
 			fmt.Println("I am an int")
 		default:
-			fmt.Println("Don't know %T\n ", t)
+			fmt.Printf("Don't know %T\n ", t)
 		}
 	}
 
